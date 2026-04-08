@@ -1,0 +1,1 @@
+gunicorn ai_cli:app
